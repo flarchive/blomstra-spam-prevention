@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of blomstra/spam-prevention.** Not for installation: use [Packagist](https://packagist.org/packages/blomstra/spam-prevention) or the [upstream repository](https://github.com/blomstra/flarum-ext-spam-prevention).
 
-**0** versions archived · Latest: [`1.8.0`](https://github.com/flarchive/blomstra-spam-prevention/tree/archive/v1.8.0) · License: `mit` · Flarum: `^1.0.0`
+**15** versions archived · Latest: [`1.8.0`](https://github.com/flarchive/blomstra-spam-prevention/tree/archive/v1.8.0) · License: `mit` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1` | 2022-08-29 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-spam-prevention/tree/archive/v0.1) |
+| `0.1.1` | 2022-08-31 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-spam-prevention/tree/archive/v0.1.1) |
+| `0.1.2` | 2022-09-01 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-spam-prevention/tree/archive/v0.1.2) |
+| `0.1.3` | 2022-09-01 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-spam-prevention/tree/archive/v0.1.3) |
+| `1.0` | 2022-09-02 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-spam-prevention/tree/archive/v1.0) |
+| `1.1` | 2022-09-08 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-spam-prevention/tree/archive/v1.1) |
+| `1.2` | 2022-09-13 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-spam-prevention/tree/archive/v1.2) |
+| `1.2.1` | 2022-09-22 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-spam-prevention/tree/archive/v1.2.1) |
+| `1.3` | 2022-11-03 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-spam-prevention/tree/archive/v1.3) |
+| `1.3.1` | 2023-02-11 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-spam-prevention/tree/archive/v1.3.1) |
+
+[View all 15 versions](https://github.com/flarchive/blomstra-spam-prevention/tags)
 
 Catalog entry: [packages/blomstra-spam-prevention.json](https://github.com/flarchive/archive-index/blob/main/packages/blomstra-spam-prevention.json)
 
